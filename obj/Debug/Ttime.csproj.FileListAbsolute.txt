@@ -1,0 +1,9 @@
+E:\FREAKCAT\VS\Ttime\bin\Debug\Ttime.exe.config
+E:\FREAKCAT\VS\Ttime\bin\Debug\Ttime.exe
+E:\FREAKCAT\VS\Ttime\bin\Debug\Ttime.pdb
+E:\FREAKCAT\VS\Ttime\obj\Debug\Ttime.csprojAssemblyReference.cache
+E:\FREAKCAT\VS\Ttime\obj\Debug\Ttime.Properties.Resources.resources
+E:\FREAKCAT\VS\Ttime\obj\Debug\Ttime.csproj.GenerateResource.cache
+E:\FREAKCAT\VS\Ttime\obj\Debug\Ttime.exe
+E:\FREAKCAT\VS\Ttime\obj\Debug\Ttime.pdb
+E:\FREAKCAT\VS\Ttime\obj\Debug\Ttime.Form1.resources
